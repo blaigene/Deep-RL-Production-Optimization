@@ -11,7 +11,7 @@ To solve the stochastic job-shop scheduling challenge, the system was modeled as
     * **Incentives:** Positive rewards for job completion.
     * **Penalties:** Weighted penalties for WIP accumulation, PSP overflow, and system lateness.
     * **Advanced Shaping:** Implementation of terminal shortfall penalties to provide a strong episode-level signal for PPO stability.
-* **Algorithms:** Comparative study between **PPO** (On-policy) using vectorized environments and **DQN** (Off-policy) with experience replay.
+* **Algorithms:** Comparative study between **PPO** (On-policy) using vectorized environments and **DQN** (Off-policy) with experience replay. 
 
 
 
