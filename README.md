@@ -1,5 +1,7 @@
 # Autonomous Production Optimization via Deep Reinforcement Learning 🤖🏭
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project implements a discrete-event production system simulation to evaluate and compare classical control policies against state-of-the-art **Deep Reinforcement Learning (DRL)** agents. By wrapping a **SimPy** discrete-event simulation into a **Gymnasium** environment, the agents optimize job release strategies from a Pre-Shop Pool (PSP) to minimize Work-In-Process (WIP) and tardiness.
 
 ## 🧠 AI & Reinforcement Learning Implementation
